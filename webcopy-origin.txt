@@ -1,0 +1,336 @@
+Uri: https://polyfill-fastly.io/v3/polyfill.min.js?features=fetch
+File Name: C:\Downloaded Web Sites\www.hypeai.tech\v3\polyfill.min.js
+Content Type: text/javascript
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?beckyExperiments=.DatePickerPortal%2C.LoginBarEnableLoggingInStateInSSR%2C.TextInputAutoFillFix%2C.buttonUdp%2C.calculateCollapsibleTextLineHeightByFont%2C.dataBindingInMasterResponsive%2C.dropAppsClientSpecMapByApplicationId%2C.fetchBlocksDevCenterWidgetIds%2C.fiveGridLineStudioSkins%2C.fixRatingsInputLeftShift%2C.imageEncodingAVIF%2C.invalidateDocumentData%2C.prefetchPageResourcesVeloApi%2C.removeAllStatesBlocksFix%2C.shouldUseResponsiveImages%2C.updateRichTextSemanticClassNamesOnCorvid%2C.useInternalBlocksRefType%2C.useSvgLoaderFeature&blocksBuilderManifestGeneratorVersion=1.129.0&contentType=application%2Fjson&deviceType=Desktop&dfCk=6&dfVersion=1.4396.0&disableStaticPagesUrlHierarchy=false&editorName=Unknown&experiments=dm_bgScrubToMotionFixer%2Cdm_deleteLayoutOverridesForRefComponents%2Cdm_migrateOldHoverBoxToNewFixer%2Cdm_removeTpaChildren%2Cspecs.thunderbolt.use_data_fixed_pages_upstream&externalBaseUrl=https:%2F%2Fwww.hypeai.tech&fileId=daa68bca.bundle.min&formFactor=desktop&hasTPAWorkerOnSite=false&isHttps=true&isInSeo=false&isMultilingualEnabled=false&isPremiumDomain=true&isTrackClicksAnalyticsEnabled=false&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=en&languageResolutionMethod=QueryParam&metaSiteId=1c727d87-fec0-4e1f-ac56-9894322bb65d&module=thunderbolt-features&oneDocEnabled=true&originalLanguage=en&pageId=9a5085_37ec746df38db8daba2dda55ae26eb0f_164.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.13346.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.13346.0"}]&remoteWidgetStructureBuilderVersion=1.251.0&siteId=c07a281b-9cc8-4d47-8146-94951b6dfd94&siteRevision=164&staticHTMLComponentUrl=https:%2F%2Fwww-hypeai-tech.filesusr.com%2F&useSandboxInHTMLComp=false&viewMode=desktop
+File Name: C:\Downloaded Web Sites\www.hypeai.tech\pages\pages\thunderbolt
+Content Type: application/json
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?beckyExperiments=.DatePickerPortal%2C.LoginBarEnableLoggingInStateInSSR%2C.TextInputAutoFillFix%2C.buttonUdp%2C.calculateCollapsibleTextLineHeightByFont%2C.dataBindingInMasterResponsive%2C.dropAppsClientSpecMapByApplicationId%2C.fetchBlocksDevCenterWidgetIds%2C.fiveGridLineStudioSkins%2C.fixRatingsInputLeftShift%2C.imageEncodingAVIF%2C.invalidateDocumentData%2C.prefetchPageResourcesVeloApi%2C.removeAllStatesBlocksFix%2C.shouldUseResponsiveImages%2C.updateRichTextSemanticClassNamesOnCorvid%2C.useInternalBlocksRefType%2C.useSvgLoaderFeature&blocksBuilderManifestGeneratorVersion=1.129.0&contentType=application%2Fjson&deviceType=Desktop&dfCk=6&dfVersion=1.4396.0&disableStaticPagesUrlHierarchy=false&editorName=Unknown&experiments=dm_bgScrubToMotionFixer%2Cdm_deleteLayoutOverridesForRefComponents%2Cdm_migrateOldHoverBoxToNewFixer%2Cdm_removeTpaChildren%2Cspecs.thunderbolt.use_data_fixed_pages_upstream&externalBaseUrl=https:%2F%2Fwww.hypeai.tech&fileId=daa68bca.bundle.min&formFactor=desktop&hasTPAWorkerOnSite=false&isHttps=true&isInSeo=false&isMultilingualEnabled=false&isPremiumDomain=true&isTrackClicksAnalyticsEnabled=false&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=en&languageResolutionMethod=QueryParam&metaSiteId=1c727d87-fec0-4e1f-ac56-9894322bb65d&module=thunderbolt-features&oneDocEnabled=true&originalLanguage=en&pageId=9a5085_ed4f7a3ae3f42e0bd0450f10707def14_164.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.13346.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.13346.0"}]&remoteWidgetStructureBuilderVersion=1.251.0&siteId=c07a281b-9cc8-4d47-8146-94951b6dfd94&siteRevision=164&staticHTMLComponentUrl=https:%2F%2Fwww-hypeai-tech.filesusr.com%2F&useSandboxInHTMLComp=false&viewMode=desktop
+File Name: C:\Downloaded Web Sites\www.hypeai.tech\pages\pages\thunderbolt-1
+Content Type: application/json
+
+Uri: https://static.parastorage.com/fonts/v2/2af1bf48-e783-4da8-9fa0-599dde29f2d5/v1/helvetica-lt-w10-roman.woff2
+File Name: C:\Downloaded Web Sites\www.hypeai.tech\fonts\v2\2af1bf48-e783-4da8-9fa0-599dde29f2d5\v1\helvetica-lt-w10-roman.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/fonts/v2/2af1bf48-e783-4da8-9fa0-599dde29f2d5/v1/helvetica-w01-roman.woff2
+File Name: C:\Downloaded Web Sites\www.hypeai.tech\fonts\v2\2af1bf48-e783-4da8-9fa0-599dde29f2d5\v1\helvetica-w01-roman.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/fonts/v2/2af1bf48-e783-4da8-9fa0-599dde29f2d5/v1/helvetica-w02-roman.woff2
+File Name: C:\Downloaded Web Sites\www.hypeai.tech\fonts\v2\2af1bf48-e783-4da8-9fa0-599dde29f2d5\v1\helvetica-w02-roman.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/fonts/v2/2f12de04-5ca4-4ada-9e66-a958673b12b5/v1/helvetica-lt-w10-bold.woff2
+File Name: C:\Downloaded Web Sites\www.hypeai.tech\fonts\v2\2f12de04-5ca4-4ada-9e66-a958673b12b5\v1\helvetica-lt-w10-bold.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/fonts/v2/2f12de04-5ca4-4ada-9e66-a958673b12b5/v1/helvetica-w01-bold.woff2
+File Name: C:\Downloaded Web Sites\www.hypeai.tech\fonts\v2\2f12de04-5ca4-4ada-9e66-a958673b12b5\v1\helvetica-w01-bold.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/fonts/v2/2f12de04-5ca4-4ada-9e66-a958673b12b5/v1/helvetica-w02-bold.woff2
+File Name: C:\Downloaded Web Sites\www.hypeai.tech\fonts\v2\2f12de04-5ca4-4ada-9e66-a958673b12b5\v1\helvetica-w02-bold.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/fonts/v2/5808f060-31b3-4ca4-acb4-69b7c4e3038e/v1/courier-ps-w01.woff2
+File Name: C:\Downloaded Web Sites\www.hypeai.tech\fonts\v2\5808f060-31b3-4ca4-acb4-69b7c4e3038e\v1\courier-ps-w01.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/fonts/v2/5808f060-31b3-4ca4-acb4-69b7c4e3038e/v1/courier-ps-w02.woff2
+File Name: C:\Downloaded Web Sites\www.hypeai.tech\fonts\v2\5808f060-31b3-4ca4-acb4-69b7c4e3038e\v1\courier-ps-w02.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/fonts/v2/5808f060-31b3-4ca4-acb4-69b7c4e3038e/v1/courier-ps-w10.woff2
+File Name: C:\Downloaded Web Sites\www.hypeai.tech\fonts\v2\5808f060-31b3-4ca4-acb4-69b7c4e3038e\v1\courier-ps-w10.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/fonts/v2/bdef1e5e-8361-459c-8cc6-7aa84f54f2ff/v1/pacifica-w00-condensed.latin-ext.woff2
+File Name: C:\Downloaded Web Sites\www.hypeai.tech\fonts\v2\bdef1e5e-8361-459c-8cc6-7aa84f54f2ff\v1\pacifica-w00-condensed.latin-ext.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/fonts/v2/bdef1e5e-8361-459c-8cc6-7aa84f54f2ff/v1/pacifica-w00-condensed.latin.woff2
+File Name: C:\Downloaded Web Sites\www.hypeai.tech\fonts\v2\bdef1e5e-8361-459c-8cc6-7aa84f54f2ff\v1\pacifica-w00-condensed.latin.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/fonts/v2/bdef1e5e-8361-459c-8cc6-7aa84f54f2ff/v1/pacifica-w00-condensed.math.woff2
+File Name: C:\Downloaded Web Sites\www.hypeai.tech\fonts\v2\bdef1e5e-8361-459c-8cc6-7aa84f54f2ff\v1\pacifica-w00-condensed.math.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/fonts/v2/eca8b0cd-45d8-43cf-aee7-ca462bc5497c/v1/din-next-w01-light.woff2
+File Name: C:\Downloaded Web Sites\www.hypeai.tech\fonts\v2\eca8b0cd-45d8-43cf-aee7-ca462bc5497c\v1\din-next-w01-light.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/fonts/v2/eca8b0cd-45d8-43cf-aee7-ca462bc5497c/v1/din-next-w02-light.woff2
+File Name: C:\Downloaded Web Sites\www.hypeai.tech\fonts\v2\eca8b0cd-45d8-43cf-aee7-ca462bc5497c\v1\din-next-w02-light.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/fonts/v2/eca8b0cd-45d8-43cf-aee7-ca462bc5497c/v1/din-next-w10-light.woff2
+File Name: C:\Downloaded Web Sites\www.hypeai.tech\fonts\v2\eca8b0cd-45d8-43cf-aee7-ca462bc5497c\v1\din-next-w10-light.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/services/tag-manager-client/1.920.0/siteTags.bundle.min.js
+File Name: C:\Downloaded Web Sites\www.hypeai.tech\services\tag-manager-client\1.920.0\siteTags.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/services/wix-thunderbolt/dist/8875.4f0e86e1.bundle.min.js
+File Name: C:\Downloaded Web Sites\www.hypeai.tech\services\wix-thunderbolt\dist\8875.4f0e86e1.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/services/wix-thunderbolt/dist/browser-deprecation.bundle.es5.js
+File Name: C:\Downloaded Web Sites\www.hypeai.tech\services\wix-thunderbolt\dist\browser-deprecation.bundle.es5.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/services/wix-thunderbolt/dist/main.72e7f19d.bundle.min.js
+File Name: C:\Downloaded Web Sites\www.hypeai.tech\services\wix-thunderbolt\dist\main.72e7f19d.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/services/wix-thunderbolt/dist/main.renderer.a20626f8.bundle.min.js
+File Name: C:\Downloaded Web Sites\www.hypeai.tech\services\wix-thunderbolt\dist\main.renderer.a20626f8.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/services/wix-thunderbolt/dist/thunderbolt-commons.3dd94201.bundle.min.js
+File Name: C:\Downloaded Web Sites\www.hypeai.tech\services\wix-thunderbolt\dist\thunderbolt-commons.3dd94201.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/opensanscondensed/v23/z7NFdQDnbTkabZAIOl9il_O6KJj73e7Ff0GmDubMR7eS2AopSg.woff2
+File Name: C:\Downloaded Web Sites\www.hypeai.tech\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\opensanscondensed\v23\z7NFdQDnbTkabZAIOl9il_O6KJj73e7Ff0GmDubMR7eS2AopSg.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/opensanscondensed/v23/z7NFdQDnbTkabZAIOl9il_O6KJj73e7Ff0GmDuHMR7eS2AopSg.woff2
+File Name: C:\Downloaded Web Sites\www.hypeai.tech\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\opensanscondensed\v23\z7NFdQDnbTkabZAIOl9il_O6KJj73e7Ff0GmDuHMR7eS2AopSg.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/opensanscondensed/v23/z7NFdQDnbTkabZAIOl9il_O6KJj73e7Ff0GmDujMR7eS2AopSg.woff2
+File Name: C:\Downloaded Web Sites\www.hypeai.tech\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\opensanscondensed\v23\z7NFdQDnbTkabZAIOl9il_O6KJj73e7Ff0GmDujMR7eS2AopSg.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/opensanscondensed/v23/z7NFdQDnbTkabZAIOl9il_O6KJj73e7Ff0GmDunMR7eS2AopSg.woff2
+File Name: C:\Downloaded Web Sites\www.hypeai.tech\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\opensanscondensed\v23\z7NFdQDnbTkabZAIOl9il_O6KJj73e7Ff0GmDunMR7eS2AopSg.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/opensanscondensed/v23/z7NFdQDnbTkabZAIOl9il_O6KJj73e7Ff0GmDurMR7eS2AopSg.woff2
+File Name: C:\Downloaded Web Sites\www.hypeai.tech\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\opensanscondensed\v23\z7NFdQDnbTkabZAIOl9il_O6KJj73e7Ff0GmDurMR7eS2AopSg.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/opensanscondensed/v23/z7NFdQDnbTkabZAIOl9il_O6KJj73e7Ff0GmDuvMR7eS2AopSg.woff2
+File Name: C:\Downloaded Web Sites\www.hypeai.tech\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\opensanscondensed\v23\z7NFdQDnbTkabZAIOl9il_O6KJj73e7Ff0GmDuvMR7eS2AopSg.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/opensanscondensed/v23/z7NFdQDnbTkabZAIOl9il_O6KJj73e7Ff0GmDuXMR7eS2Ao.woff2
+File Name: C:\Downloaded Web Sites\www.hypeai.tech\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\opensanscondensed\v23\z7NFdQDnbTkabZAIOl9il_O6KJj73e7Ff0GmDuXMR7eS2Ao.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/opensanscondensed/v23/z7NFdQDnbTkabZAIOl9il_O6KJj73e7Ff1GhDubMR7eS2AopSg.woff2
+File Name: C:\Downloaded Web Sites\www.hypeai.tech\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\opensanscondensed\v23\z7NFdQDnbTkabZAIOl9il_O6KJj73e7Ff1GhDubMR7eS2AopSg.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/opensanscondensed/v23/z7NFdQDnbTkabZAIOl9il_O6KJj73e7Ff1GhDuHMR7eS2AopSg.woff2
+File Name: C:\Downloaded Web Sites\www.hypeai.tech\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\opensanscondensed\v23\z7NFdQDnbTkabZAIOl9il_O6KJj73e7Ff1GhDuHMR7eS2AopSg.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/opensanscondensed/v23/z7NFdQDnbTkabZAIOl9il_O6KJj73e7Ff1GhDujMR7eS2AopSg.woff2
+File Name: C:\Downloaded Web Sites\www.hypeai.tech\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\opensanscondensed\v23\z7NFdQDnbTkabZAIOl9il_O6KJj73e7Ff1GhDujMR7eS2AopSg.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/opensanscondensed/v23/z7NFdQDnbTkabZAIOl9il_O6KJj73e7Ff1GhDunMR7eS2AopSg.woff2
+File Name: C:\Downloaded Web Sites\www.hypeai.tech\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\opensanscondensed\v23\z7NFdQDnbTkabZAIOl9il_O6KJj73e7Ff1GhDunMR7eS2AopSg.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/opensanscondensed/v23/z7NFdQDnbTkabZAIOl9il_O6KJj73e7Ff1GhDurMR7eS2AopSg.woff2
+File Name: C:\Downloaded Web Sites\www.hypeai.tech\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\opensanscondensed\v23\z7NFdQDnbTkabZAIOl9il_O6KJj73e7Ff1GhDurMR7eS2AopSg.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/opensanscondensed/v23/z7NFdQDnbTkabZAIOl9il_O6KJj73e7Ff1GhDuvMR7eS2AopSg.woff2
+File Name: C:\Downloaded Web Sites\www.hypeai.tech\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\opensanscondensed\v23\z7NFdQDnbTkabZAIOl9il_O6KJj73e7Ff1GhDuvMR7eS2AopSg.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/opensanscondensed/v23/z7NFdQDnbTkabZAIOl9il_O6KJj73e7Ff1GhDuXMR7eS2Ao.woff2
+File Name: C:\Downloaded Web Sites\www.hypeai.tech\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\opensanscondensed\v23\z7NFdQDnbTkabZAIOl9il_O6KJj73e7Ff1GhDuXMR7eS2Ao.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/poppins/v21/pxiByp8kv8JHgFVrLCz7Z1JlFd2JQEl8qw.woff2
+File Name: C:\Downloaded Web Sites\www.hypeai.tech\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\poppins\v21\pxiByp8kv8JHgFVrLCz7Z1JlFd2JQEl8qw.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/poppins/v21/pxiByp8kv8JHgFVrLCz7Z1xlFd2JQEk.woff2
+File Name: C:\Downloaded Web Sites\www.hypeai.tech\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\poppins\v21\pxiByp8kv8JHgFVrLCz7Z1xlFd2JQEk.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/poppins/v21/pxiDyp8kv8JHgFVrJJLmy15VF9eOYktMqg.woff2
+File Name: C:\Downloaded Web Sites\www.hypeai.tech\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\poppins\v21\pxiDyp8kv8JHgFVrJJLmy15VF9eOYktMqg.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/poppins/v21/pxiDyp8kv8JHgFVrJJLmy15VGdeOYktMqlap.woff2
+File Name: C:\Downloaded Web Sites\www.hypeai.tech\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\poppins\v21\pxiDyp8kv8JHgFVrJJLmy15VGdeOYktMqlap.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/poppins/v21/pxiEyp8kv8JHgFVrJJfecnFHGPc.woff2
+File Name: C:\Downloaded Web Sites\www.hypeai.tech\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\poppins\v21\pxiEyp8kv8JHgFVrJJfecnFHGPc.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/poppins/v21/pxiEyp8kv8JHgFVrJJnecnFHGPezSQ.woff2
+File Name: C:\Downloaded Web Sites\www.hypeai.tech\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\poppins\v21\pxiEyp8kv8JHgFVrJJnecnFHGPezSQ.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/poppins/v21/pxiGyp8kv8JHgFVrJJLucHtAOvWDSA.woff2
+File Name: C:\Downloaded Web Sites\www.hypeai.tech\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\poppins\v21\pxiGyp8kv8JHgFVrJJLucHtAOvWDSA.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/poppins/v21/pxiGyp8kv8JHgFVrJJLufntAOvWDSHFF.woff2
+File Name: C:\Downloaded Web Sites\www.hypeai.tech\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\poppins\v21\pxiGyp8kv8JHgFVrJJLufntAOvWDSHFF.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/poppins/v5/-GlaWpWcSgdVagNuOGuFKRUOjZSKWg4xBWp_C_qQx0o.woff2
+File Name: C:\Downloaded Web Sites\www.hypeai.tech\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\poppins\v5\-GlaWpWcSgdVagNuOGuFKRUOjZSKWg4xBWp_C_qQx0o.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/poppins/v5/9VWMTeb5jtXkNoTv949Npfk_vArhqVIZ0nv9q090hN8.woff2
+File Name: C:\Downloaded Web Sites\www.hypeai.tech\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\poppins\v5\9VWMTeb5jtXkNoTv949Npfk_vArhqVIZ0nv9q090hN8.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/poppins/v5/aDjpMND83pDErGXlVEr-Sfk_vArhqVIZ0nv9q090hN8.woff2
+File Name: C:\Downloaded Web Sites\www.hypeai.tech\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\poppins\v5\aDjpMND83pDErGXlVEr-Sfk_vArhqVIZ0nv9q090hN8.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/poppins/v5/c4FPK8_hIFKoX59qcGwdChUOjZSKWg4xBWp_C_qQx0o.woff2
+File Name: C:\Downloaded Web Sites\www.hypeai.tech\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\poppins\v5\c4FPK8_hIFKoX59qcGwdChUOjZSKWg4xBWp_C_qQx0o.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/poppins/v5/Fm41upUVp7KTKUZhL0PfQVtXRa8TVwTICgirnJhmVJw.woff2
+File Name: C:\Downloaded Web Sites\www.hypeai.tech\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\poppins\v5\Fm41upUVp7KTKUZhL0PfQVtXRa8TVwTICgirnJhmVJw.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/poppins/v5/h3r77AwDsldr1E_2g4qqGPk_vArhqVIZ0nv9q090hN8.woff2
+File Name: C:\Downloaded Web Sites\www.hypeai.tech\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\poppins\v5\h3r77AwDsldr1E_2g4qqGPk_vArhqVIZ0nv9q090hN8.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/poppins/v5/RbebACOccNN-5ixkDIVLjRUOjZSKWg4xBWp_C_qQx0o.woff2
+File Name: C:\Downloaded Web Sites\www.hypeai.tech\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\poppins\v5\RbebACOccNN-5ixkDIVLjRUOjZSKWg4xBWp_C_qQx0o.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/poppins/v5/rijG6I_IOXJjsH07UEo2mw.woff2
+File Name: C:\Downloaded Web Sites\www.hypeai.tech\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\poppins\v5\rijG6I_IOXJjsH07UEo2mw.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/unpkg/core-js-bundle@3.2.1/minified.js
+File Name: C:\Downloaded Web Sites\www.hypeai.tech\unpkg\core-js-bundle@3.2.1\minified.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/unpkg/focus-within-polyfill@5.0.9/dist/focus-within-polyfill.js
+File Name: C:\Downloaded Web Sites\www.hypeai.tech\unpkg\focus-within-polyfill@5.0.9\dist\focus-within-polyfill.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/unpkg/lodash@4.17.21/lodash.min.js
+File Name: C:\Downloaded Web Sites\www.hypeai.tech\unpkg\lodash@4.17.21\lodash.min.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/unpkg/react-dom@18.3.1/umd/react-dom.production.min.js
+File Name: C:\Downloaded Web Sites\www.hypeai.tech\unpkg\react-dom@18.3.1\umd\react-dom.production.min.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/unpkg/react@18.3.1/umd/react.production.min.js
+File Name: C:\Downloaded Web Sites\www.hypeai.tech\unpkg\react@18.3.1\umd\react.production.min.js
+Content Type: application/javascript
+
+Uri: https://static.wixstatic.com/media/3a080b_0f3519fc042f4aee9626aae1569dd70a~mv2.png/v1/fill/w_140,h_140,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto/hypeai_deep_learning_blue.png
+File Name: C:\Downloaded Web Sites\www.hypeai.tech\media\3a080b_0f3519fc042f4aee9626aae1569dd70a~mv2.png\v1\fill\w_140,h_140,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto\hypeai_deep_learning_blue.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/3a080b_1da707909e434223ac6cd85ffd9f5a06~mv2.png/v1/fill/w_55,h_55,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto/3a080b_1da707909e434223ac6cd85ffd9f5a06~mv2.png
+File Name: C:\Downloaded Web Sites\www.hypeai.tech\media\3a080b_1da707909e434223ac6cd85ffd9f5a06~mv2.png\v1\fill\w_55,h_55,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto\3a080b_1da707909e434223ac6cd85ffd9f5a06~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/3a080b_1da707909e434223ac6cd85ffd9f5a06~mv2.png/v1/fill/w_67,h_67,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/3a080b_1da707909e434223ac6cd85ffd9f5a06~mv2.png
+File Name: C:\Downloaded Web Sites\www.hypeai.tech\media\3a080b_1da707909e434223ac6cd85ffd9f5a06~mv2.png\v1\fill\w_67,h_67,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto\3a080b_1da707909e434223ac6cd85ffd9f5a06~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/3a080b_2e9cdc27bf3c4ce983e5cf4274f2f3e3~mv2.png/v1/fill/w_74,h_57,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/3a080b_2e9cdc27bf3c4ce983e5cf4274f2f3e3~mv2.png
+File Name: C:\Downloaded Web Sites\www.hypeai.tech\media\3a080b_2e9cdc27bf3c4ce983e5cf4274f2f3e3~mv2.png\v1\fill\w_74,h_57,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto\3a080b_2e9cdc27bf3c4ce983e5cf4274f2f3e3~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/3a080b_2e9cdc27bf3c4ce983e5cf4274f2f3e3~mv2.png/v1/fill/w_740,h_574,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/3a080b_2e9cdc27bf3c4ce983e5cf4274f2f3e3~mv2.png
+File Name: C:\Downloaded Web Sites\www.hypeai.tech\media\3a080b_2e9cdc27bf3c4ce983e5cf4274f2f3e3~mv2.png\v1\fill\w_740,h_574,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto\3a080b_2e9cdc27bf3c4ce983e5cf4274f2f3e3~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/3a080b_46a25d1c498d4c679a54e73c44c994e0~mv2.png/v1/fill/w_117,h_117,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto/hypeai_analytics_blue.png
+File Name: C:\Downloaded Web Sites\www.hypeai.tech\media\3a080b_46a25d1c498d4c679a54e73c44c994e0~mv2.png\v1\fill\w_117,h_117,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto\hypeai_analytics_blue.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/3a080b_666c3258e1154ab48ad6f98058e47755~mv2.png/v1/fill/w_109,h_109,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto/hypeai_icon_x_blue.png
+File Name: C:\Downloaded Web Sites\www.hypeai.tech\media\3a080b_666c3258e1154ab48ad6f98058e47755~mv2.png\v1\fill\w_109,h_109,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto\hypeai_icon_x_blue.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/3a080b_6fd14d4f25514bd18a05ef853dfb0ad4~mv2.png/v1/fill/w_153,h_153,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto/hypeai_insights_blue.png
+File Name: C:\Downloaded Web Sites\www.hypeai.tech\media\3a080b_6fd14d4f25514bd18a05ef853dfb0ad4~mv2.png\v1\fill\w_153,h_153,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto\hypeai_insights_blue.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/3a080b_74a5d3a662e84e0cba33379f56262d7d~mv2.png/v1/fill/w_49,h_51,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/hypeai_box_full.png
+File Name: C:\Downloaded Web Sites\www.hypeai.tech\media\3a080b_74a5d3a662e84e0cba33379f56262d7d~mv2.png\v1\fill\w_49,h_51,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto\hypeai_box_full.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/3a080b_75cfff4052534eeaa1a4069c0477a5e0~mv2.png/v1/fill/w_140,h_140,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto/hypeai_visualization_blue.png
+File Name: C:\Downloaded Web Sites\www.hypeai.tech\media\3a080b_75cfff4052534eeaa1a4069c0477a5e0~mv2.png\v1\fill\w_140,h_140,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto\hypeai_visualization_blue.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/3a080b_798370d1ae1f4b2bb5312b2586538d5b~mv2.png/v1/fill/w_109,h_109,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto/hypeai_icon_telegram_blue.png
+File Name: C:\Downloaded Web Sites\www.hypeai.tech\media\3a080b_798370d1ae1f4b2bb5312b2586538d5b~mv2.png\v1\fill\w_109,h_109,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto\hypeai_icon_telegram_blue.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/3a080b_835624a878f642fda80f2ce6f141ea33~mv2.png/v1/fill/w_96,h_54,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/3a080b_835624a878f642fda80f2ce6f141ea33~mv2.png
+File Name: C:\Downloaded Web Sites\www.hypeai.tech\media\3a080b_835624a878f642fda80f2ce6f141ea33~mv2.png\v1\fill\w_96,h_54,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto\3a080b_835624a878f642fda80f2ce6f141ea33~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/3a080b_89d1963c2795496e903af79579575911~mv2.png/v1/fill/w_74,h_57,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/3a080b_89d1963c2795496e903af79579575911~mv2.png
+File Name: C:\Downloaded Web Sites\www.hypeai.tech\media\3a080b_89d1963c2795496e903af79579575911~mv2.png\v1\fill\w_74,h_57,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto\3a080b_89d1963c2795496e903af79579575911~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/3a080b_910592675b4c4ab3b1532cea141c308bf000.jpg/v1/fill/w_147,h_83,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/3a080b_910592675b4c4ab3b1532cea141c308bf000.jpg
+File Name: C:\Downloaded Web Sites\www.hypeai.tech\media\3a080b_910592675b4c4ab3b1532cea141c308bf000.jpg\v1\fill\w_147,h_83,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto\3a080b_910592675b4c4ab3b1532cea141c308bf000.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/3a080b_d7bc6660903a44268d85964c83ddc635~mv2.png/v1/fill/w_273,h_79,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/3a080b_d7bc6660903a44268d85964c83ddc635~mv2.png
+File Name: C:\Downloaded Web Sites\www.hypeai.tech\media\3a080b_d7bc6660903a44268d85964c83ddc635~mv2.png\v1\fill\w_273,h_79,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto\3a080b_d7bc6660903a44268d85964c83ddc635~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/3a080b_d7bc6660903a44268d85964c83ddc635~mv2.png/v1/fill/w_55,h_16,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/3a080b_d7bc6660903a44268d85964c83ddc635~mv2.png
+File Name: C:\Downloaded Web Sites\www.hypeai.tech\media\3a080b_d7bc6660903a44268d85964c83ddc635~mv2.png\v1\fill\w_55,h_16,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto\3a080b_d7bc6660903a44268d85964c83ddc635~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/3a080b_e2daadbb8cd440338faa3346c1a84275~mv2.png/v1/fill/w_55,h_55,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto/3a080b_e2daadbb8cd440338faa3346c1a84275~mv2.png
+File Name: C:\Downloaded Web Sites\www.hypeai.tech\media\3a080b_e2daadbb8cd440338faa3346c1a84275~mv2.png\v1\fill\w_55,h_55,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto\3a080b_e2daadbb8cd440338faa3346c1a84275~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/3a080b_e2daadbb8cd440338faa3346c1a84275~mv2.png/v1/fill/w_67,h_67,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/3a080b_e2daadbb8cd440338faa3346c1a84275~mv2.png
+File Name: C:\Downloaded Web Sites\www.hypeai.tech\media\3a080b_e2daadbb8cd440338faa3346c1a84275~mv2.png\v1\fill\w_67,h_67,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto\3a080b_e2daadbb8cd440338faa3346c1a84275~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/3a080b_e342a5053b664ad0a7205b3136441584~mv2.png/v1/fill/w_180%2Ch_180%2Clg_1%2Cusm_0.66_1.00_0.01/3a080b_e342a5053b664ad0a7205b3136441584~mv2.png
+File Name: C:\Downloaded Web Sites\www.hypeai.tech\media\3a080b_e342a5053b664ad0a7205b3136441584~mv2.png\v1\fill\w_180,h_180,lg_1,usm_0.66_1.00_0.01\3a080b_e342a5053b664ad0a7205b3136441584~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/3a080b_e342a5053b664ad0a7205b3136441584~mv2.png/v1/fill/w_192%2Ch_192%2Clg_1%2Cusm_0.66_1.00_0.01/3a080b_e342a5053b664ad0a7205b3136441584~mv2.png
+File Name: C:\Downloaded Web Sites\www.hypeai.tech\media\3a080b_e342a5053b664ad0a7205b3136441584~mv2.png\v1\fill\w_192,h_192,lg_1,usm_0.66_1.00_0.01\3a080b_e342a5053b664ad0a7205b3136441584~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/3a080b_e342a5053b664ad0a7205b3136441584~mv2.png/v1/fill/w_32%2Ch_32%2Clg_1%2Cusm_0.66_1.00_0.01/3a080b_e342a5053b664ad0a7205b3136441584~mv2.png
+File Name: C:\Downloaded Web Sites\www.hypeai.tech\media\3a080b_e342a5053b664ad0a7205b3136441584~mv2.png\v1\fill\w_32,h_32,lg_1,usm_0.66_1.00_0.01\3a080b_e342a5053b664ad0a7205b3136441584~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/3a080b_fc4ca264dbe8467c81b1deaf43065b92~mv2.png/v1/fill/w_76,h_76,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/hypeai_token_blue.png
+File Name: C:\Downloaded Web Sites\www.hypeai.tech\media\3a080b_fc4ca264dbe8467c81b1deaf43065b92~mv2.png\v1\fill\w_76,h_76,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto\hypeai_token_blue.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/9a5085_0029aad606b240c18619143ded3f3b01~mv2.png/v1/fill/w_55,h_55,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto/hypeai_icon_dextools.png
+File Name: C:\Downloaded Web Sites\www.hypeai.tech\media\9a5085_0029aad606b240c18619143ded3f3b01~mv2.png\v1\fill\w_55,h_55,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto\hypeai_icon_dextools.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/9a5085_0029aad606b240c18619143ded3f3b01~mv2.png/v1/fill/w_67,h_67,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/hypeai_icon_dextools.png
+File Name: C:\Downloaded Web Sites\www.hypeai.tech\media\9a5085_0029aad606b240c18619143ded3f3b01~mv2.png\v1\fill\w_67,h_67,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto\hypeai_icon_dextools.png
+Content Type: image/png
+
+Uri: https://www.hypeai.tech/
+File Name: C:\Downloaded Web Sites\www.hypeai.tech\index.htm
+Content Type: text/html
+
